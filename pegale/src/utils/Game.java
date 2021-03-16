@@ -33,4 +33,8 @@ public class Game implements Serializable {
     public int getMulPort() {
         return mulPort;
     }
+
+    public String getIpDir() {
+        return ipDir;
+    }
 }
